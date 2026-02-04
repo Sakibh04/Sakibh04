@@ -104,15 +104,10 @@ A regression-based ML project focused on feature engineering and model optimisat
 
 ---
 
-## 📊 GitHub Stats
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakibh04&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/sakibhossain0
 - 💻 GitHub: https://github.com/Sakibh04
-- 📧 Email: sakibhossain368@gmail.com
+- 📧 Email: sakibhossain368 @ gmail.com
 
 
 <!--
