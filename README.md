@@ -10,8 +10,6 @@ I enjoy building practical applications that combine clean system design, data p
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### **Languages**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python &nbsp;&nbsp;
