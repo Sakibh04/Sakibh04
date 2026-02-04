@@ -98,12 +98,6 @@ A regression-based ML project focused on feature engineering and model optimisat
 
 ---
 
-## 📜 Certifications
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**
-- **LinkedIn Learning – React Essential Training**
-
----
-
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/sakibhossain0
 - 💻 GitHub: https://github.com/Sakibh04
