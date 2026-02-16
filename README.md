@@ -46,56 +46,6 @@ I enjoy building practical applications that combine clean system design, data p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28"/> Oracle VirtualBox
 </p>
 
-
----
-
-## 🚀 Featured Projects
-
-### 📌 Job Application Tracker
-**Tech:** Flask, Python, SQL, HTML/CSS, JavaScript, REST API  
-🔗 [View Repository](https://github.com/Sakibh04/Job-Application-Tracker)
-
-A full-stack web application to track job applications with secure user authentication and persistent storage.
-
-- Implemented **8+ REST API endpoints** for authentication and CRUD operations  
-- Fully responsive design across desktop, tablet, and mobile  
-- Focused on usability and data integrity  
-
----
-
-### 🎵 Spotify Album Finder
-**Tech:** JavaScript, HTML, CSS, Spotify Web API  
-🔗 [View Repository](https://github.com/Sakibh04/Spotify-Album-Finder)
-
-A music discovery web app that fetches and filters album data using Spotify’s REST API.
-
-- Integrated external APIs for real-time data retrieval  
-- Responsive layout supporting **320px → 4K displays**  
-- Filtered albums based on track-count constraints  
-
----
-
-### 🤖 Machine Learning Project
-**Tech:** Python, NumPy, Pandas, Matplotlib, scikit-learn  
-🔗 [View Repository](https://github.com/Sakibh04/ML-Project)
-
-A regression-based ML project focused on feature engineering and model optimisation.
-
-- Performed feature scaling (Standard, MinMax, Robust)  
-- Compared **KNN Regressor** and **Decision Tree Regressor**  
-- Reduced prediction error by **66.8%** using GridSearchCV  
-
----
-
-### ☁️ Cloud Infrastructure & Virtualisation
-**Tech:** Docker, Oracle VirtualBox, Ubuntu  
-🔗 [VM Report](https://github.com/Sakibh04/Virtual-Machine-Report)  
-🔗 [Docker Report](https://github.com/Sakibh04/Docker-Report)
-
-- Deployed Ubuntu VMs and Docker containers on Windows 11  
-- Benchmarked VM vs container performance  
-- Analysed execution-time trade-offs and kernel sharing  
-
 ---
 
 ## 📫 Connect with Me
