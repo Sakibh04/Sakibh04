@@ -50,7 +50,6 @@ I enjoy building practical applications that combine clean system design, data p
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/sakibhossain0
-- 💻 GitHub: https://github.com/Sakibh04
 - 📧 Email: sakibhossain368 @ gmail.com
 
 
