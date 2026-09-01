@@ -1,6 +1,7 @@
 # Hi, I'm Sakib Hossain 👋
 
-🎓 Third-year Computer Science student at **University College Cork**  
+🎓 Third-year Computer Science student at **University College Cork**   
+🍎 Software Engineer Intern at **Apple**  
 📍 Cork, Ireland  
 💡 Interested in **software engineering, data-driven systems, and full-stack development**
 
@@ -14,6 +15,7 @@ I enjoy building practical applications that combine clean system design, data p
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/> Python &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28"/> Java &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swift/FA7343" width="28"/> Swift &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/> JavaScript &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="28"/> SQL &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/> HTML &nbsp;&nbsp;
@@ -23,7 +25,7 @@ I enjoy building practical applications that combine clean system design, data p
 ### **Frameworks & Libraries**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="28"/> Flask &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/> React.js &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/swift/0066CC" width="28"/> SwiftUI &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28"/> NumPy &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28"/> Pandas &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="28"/> Matplotlib &nbsp;&nbsp;
