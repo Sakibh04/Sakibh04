@@ -1,7 +1,7 @@
 # Hi, I'm Sakib Hossain 👋
 
-🎓 Third-year Computer Science student at **University College Cork**   
-🍎 Software Engineer Intern at **Apple**  
+🎓 Fourth-year Computer Science student at **University College Cork**   
+🍎 prev. Software Engineer Intern at **Apple**  
 📍 Cork, Ireland  
 💡 Interested in **software engineering, data-driven systems, and full-stack development**
 
