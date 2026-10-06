@@ -45,6 +45,7 @@ I enjoy building practical applications that combine clean system design, data p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28"/> Bash &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/> Docker &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="28"/> Jupyter Notebook &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="28"/> Google Colab &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="28"/> Oracle VirtualBox
 </p>
 
