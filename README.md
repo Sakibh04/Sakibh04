@@ -1,11 +1,30 @@
 # Hi, I'm Sakib Hossain 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FA7343&vCenter=true&width=600&lines=Fourth-year+CS+%40+University+College+Cork;prev.+Software+Engineer+Intern+%40+Apple;HackEurope+2026+track+winner;Building+full-stack+%26+data-driven+systems" alt="Typing intro" />
+
+<img src="https://komarev.com/ghpvc/?username=Sakibh04&label=Profile%20views&color=FA7343&style=flat" alt="Profile views" />
+
 🎓 Fourth-year Computer Science student at **University College Cork**   
 🍎 prev. Software Engineer Intern at **Apple**  
 📍 Cork, Ireland  
 💡 Interested in **software engineering, data-driven systems, and full-stack development**
 
 I enjoy building practical applications that combine clean system design, data processing, and user-focused interfaces.
+
+## ⚡ Highlights
+- 🏆 Won Intercom's **Best Built on Rails** track at **HackEurope 2026**, building a cross-market prediction intelligence app on Polymarket, Kalshi & Manifold data
+- 📜 Oracle Cloud Infrastructure 2025 Certified **AI Foundations Associate**
+- 🎯 Open to **new-grad Software Engineering** roles for 2027
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Sakibh04/TheftSense"><img src="./profile/pin-theftsense.svg" alt="TheftSense" width="49%" /></a>
+  <a href="https://github.com/Sakibh04/Job-Application-Tracker"><img src="./profile/pin-job-tracker.svg" alt="Job Application Tracker" width="49%" /></a>
+  <a href="https://github.com/Sakibh04/Image-Classification-Project"><img src="./profile/pin-image-classification.svg" alt="Image Classification Project" width="49%" /></a>
+</p>
 
 ---
 
@@ -51,22 +70,24 @@ I enjoy building practical applications that combine clean system design, data p
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="180" />
+</p>
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakibh04/Sakibh04/HEAD/profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakibh04/Sakibh04/HEAD/profile/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Sakibh04/Sakibh04/HEAD/profile/snake.svg" />
+</picture>
+
+---
+
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/sakibhossain0
 - 📧 Email: sakibhossain368 @ gmail.com
-
-
-<!--
-**Sakibh04/Sakibh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
