@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  # One place to restyle every stats/pin card: GitHub-dark background + Swift orange accent
-  CARD_STYLE: "bg_color=0D1117&title_color=FA7343&icon_color=FA7343&ring_color=FA7343&text_color=C9D1D9&hide_border=true&border_radius=10"
+  # One place to restyle every stats card: GitHub-dark background + purple accent
+  CARD_STYLE: "bg_color=0D1117&title_color=A371F7&icon_color=A371F7&ring_color=A371F7&text_color=C9D1D9&hide_border=true&border_radius=10"
 
 jobs:
   build:
@@ -45,7 +45,7 @@ jobs:
       - name: Streak card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: "user=${{ github.repository_owner }}&hide_border=true&background=0D1117&stroke=30363D&ring=FA7343&fire=FA7343&currStreakLabel=FA7343&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E"
+          options: "user=${{ github.repository_owner }}&hide_border=true&background=0D1117&stroke=30363D&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E"
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -54,8 +54,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake.svg?color_snake=#FA7343
-            profile/snake-dark.svg?palette=github-dark&color_snake=#FA7343
+            profile/snake.svg?color_snake=#A371F7
+            profile/snake-dark.svg?palette=github-dark&color_snake=#A371F7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

@@ -1,8 +1,8 @@
 # Hi, I'm Sakib Hossain 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FA7343&vCenter=true&width=600&lines=Fourth-year+CS+%40+University+College+Cork;prev.+Software+Engineer+Intern+%40+Apple;HackEurope+2026+track+winner;Building+full-stack+%26+data-driven+systems" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A371F7&vCenter=true&width=600&lines=Fourth-year+CS+%40+University+College+Cork;prev.+Software+Engineer+Intern+%40+Apple;HackEurope+2026+track+winner;Building+full-stack+%26+data-driven+systems" alt="Typing intro" />
 
-<img src="https://komarev.com/ghpvc/?username=Sakibh04&label=Profile%20views&color=FA7343&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sakibh04&label=Profile%20views&color=A371F7&style=flat" alt="Profile views" />
 
 🎓 Fourth-year Computer Science student at **University College Cork**   
 🍎 prev. Software Engineer Intern at **Apple**  
@@ -11,20 +11,43 @@
 
 I enjoy building practical applications that combine clean system design, data processing, and user-focused interfaces.
 
-## ⚡ Highlights
-- 🏆 Won Intercom's **Best Built on Rails** track at **HackEurope 2026**, building a cross-market prediction intelligence app on Polymarket, Kalshi & Manifold data
-- 📜 Oracle Cloud Infrastructure 2025 Certified **AI Foundations Associate**
-- 🎯 Open to **new-grad Software Engineering** roles for 2027
-
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Built with |
-|:--|:--|:--|
-| 🛡️ [**TheftSense**](https://github.com/Sakibh04/TheftSense) | ML-powered retail theft detection with live camera feeds and Firebase auth | Flutter · Dart · Firebase · AWS |
-| 📋 [**Job Application Tracker**](https://github.com/Sakibh04/job-application-tracker) | Full-stack app for tracking job applications, with 8+ API endpoints and a fully responsive UI | Flask · Python · SQL · JavaScript |
-| 🐑 [**Image Classification**](https://github.com/Sakibh04/image-classification) | Sheep vs goat classifier comparing custom CNNs with ResNet transfer learning, reaching 93% test accuracy | Keras · scikit-learn · Pandas |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Sakibh04/TheftSense">TheftSense</a></h3>
+      <p>ML-powered retail theft detection that watches live camera feeds and flags suspicious activity, with Firebase auth.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-8957E5?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-8957E5?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/Firebase-8957E5?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/AWS-8957E5?style=flat-square" alt="AWS" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📋 <a href="https://github.com/Sakibh04/job-application-tracker">Job Tracker</a></h3>
+      <p>Full-stack app for tracking job applications end to end, with 8+ API endpoints and a fully responsive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-8957E5?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Python-8957E5?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-8957E5?style=flat-square" alt="SQL" />
+        <img src="https://img.shields.io/badge/JavaScript-8957E5?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🐑 <a href="https://github.com/Sakibh04/image-classification">Sheep vs Goat</a></h3>
+      <p>Image classifier comparing custom CNNs against ResNet transfer learning, reaching <b>93% test accuracy</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Keras-8957E5?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+        <img src="https://img.shields.io/badge/scikit--learn-8957E5?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/Pandas-8957E5?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
