@@ -37,8 +37,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          # If notebooks swamp the chart, add: &hide=jupyter notebook
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&${{ env.CARD_STYLE }}"
+          # Notebooks are counted by raw JSON size, which swamps every other language
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=jupyter%20notebook&${{ env.CARD_STYLE }}"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
