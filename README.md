@@ -20,11 +20,11 @@ I enjoy building practical applications that combine clean system design, data p
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Sakibh04/TheftSense"><img src="./profile/pin-theftsense.svg" alt="TheftSense" width="49%" /></a>
-  <a href="https://github.com/Sakibh04/Job-Application-Tracker"><img src="./profile/pin-job-tracker.svg" alt="Job Application Tracker" width="49%" /></a>
-  <a href="https://github.com/Sakibh04/Image-Classification-Project"><img src="./profile/pin-image-classification.svg" alt="Image Classification Project" width="49%" /></a>
-</p>
+| Project | What it does | Built with |
+|:--|:--|:--|
+| 🛡️ [**TheftSense**](https://github.com/Sakibh04/TheftSense) | ML-powered retail theft detection with live camera feeds and Firebase auth | Flutter · Dart · Firebase · AWS |
+| 📋 [**Job Application Tracker**](https://github.com/Sakibh04/job-application-tracker) | Full-stack app for tracking job applications, with 8+ API endpoints and a fully responsive UI | Flask · Python · SQL · JavaScript |
+| 🐑 [**Image Classification**](https://github.com/Sakibh04/image-classification) | Sheep vs goat classifier comparing custom CNNs with ResNet transfer learning, reaching 93% test accuracy | Keras · scikit-learn · Pandas |
 
 ---
 
